@@ -1,0 +1,9 @@
+{
+	"name": "kailashADF10012001",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e9871c6-2ebe-4c17-b382-a6cc249b77db",
+		"tenantId": "d751ec74-cfd9-47e5-a4c2-d7fa24503caa"
+	}
+}
